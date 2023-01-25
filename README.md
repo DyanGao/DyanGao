@@ -2,9 +2,9 @@
 🌱 Welcome to my page.<br>
 ✨ I'm Dongyang, Frontend Developer.
 
-<a href="https://github-readme-stats.vercel.app">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyanGao&show_icons=true&theme=merko&"/>
-</a>
+</div>
 
 
 * * *
@@ -38,9 +38,9 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=style=flat-square&logo=storybook&logoColor=white" /> 
  </p><br>
  
-<a href="https://github-readme-stats.vercel.app">
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyanGao&layout=compact&hide=html,css,scss&theme=dark"/>
-</a>
+</div>
 
 ***
 ### Where to find me
