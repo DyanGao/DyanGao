@@ -2,9 +2,7 @@
 🌱 Welcome to my page.<br>
 ✨ I'm Dongyang, a Frontend Developer.
 
-<div>
-  https://visitor-badge.glitch.me/badge?page_id=DyanGao.readme
-</div>
+
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyanGao&show_icons=true&theme=merko&"/>
@@ -60,4 +58,4 @@
   </a>
 </p>
 
-
+ ![](https://visitor-badge.glitch.me/badge?page_id=DyanGao.readme)
