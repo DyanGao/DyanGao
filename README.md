@@ -5,7 +5,7 @@
 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyanGao&show_icons=true&theme=merko&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyanGao&count_private=true&show_icons=true&theme=merko"/>
 </div>
 
 
