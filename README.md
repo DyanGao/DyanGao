@@ -5,7 +5,8 @@
 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyanGao&count_private=true&show_icons=true&theme=merko"/>
+  
+  ![Dongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyanGao&count_private=true&show_icons=true&theme=merko)
 </div>
 
 
