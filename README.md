@@ -44,6 +44,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=flat-square&logo=Figma&logoColor=white" /> 
   <img alt="Blender" src="https://img.shields.io/badge/Blender-333333?style=flat-square&logo=Blender&logoColor=orange" /> 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=style=flat-square&logo=storybook&logoColor=white" /> 
+  <img alt="Framer" src="https://img.shields.io/badge/Framer-333333?style=flat-square&logo=Framer&logoColor=blue" /> 
  </p><br>
  
 <div>
@@ -61,4 +62,4 @@
   </a>
 </p>
 
- ![](https://visitor-badge.glitch.me/badge?page_id=DyanGao.readme)
+
