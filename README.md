@@ -41,10 +41,11 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
   <img alt="Expressjs" src="https://img.shields.io/badge/express.js-23404d59?style=flat-square&logo=Express&logoColor=white" /> 
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=flat-square&logo=Figma&logoColor=white" /> 
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=flat-square&logo=Figma&logoColor=red" /> 
+  <img alt="Framer" src="https://img.shields.io/badge/Framer-007ACC?style=flat-square&logo=Framer&logoColor=white" /> 
   <img alt="Blender" src="https://img.shields.io/badge/Blender-333333?style=flat-square&logo=Blender&logoColor=orange" /> 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=style=flat-square&logo=storybook&logoColor=white" /> 
-  <img alt="Framer" src="https://img.shields.io/badge/Framer-333333?style=flat-square&logo=Framer&logoColor=blue" /> 
+  
  </p><br>
  
 <div>
