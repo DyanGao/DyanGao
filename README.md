@@ -29,20 +29,23 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6F2CF4?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Vite" src="https://img.shields.io/badge/Vite-A157FE?style=flat-square&logo=vite&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-13aa52?style=flat-square&logo=spring&logoColor=white"/>
    
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  <img alt="django" src="https://img.shields.io/badge/-django-0D2B20?style=flat-square&logo=django&logoColor=black" />
+  <img alt="django" src="https://img.shields.io/badge/-django-0D2B20?style=flat-square&logo=django&logoColor=white" />
  
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQLServer-0078D4?style=flat-square&logo=SQLServer&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
   <img alt="Expressjs" src="https://img.shields.io/badge/express.js-23404d59?style=flat-square&logo=Express&logoColor=white" /> 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=flat-square&logo=Figma&logoColor=red" /> 
+  
   <img alt="Framer" src="https://img.shields.io/badge/Framer-007ACC?style=flat-square&logo=Framer&logoColor=white" /> 
   <img alt="Blender" src="https://img.shields.io/badge/Blender-333333?style=flat-square&logo=Blender&logoColor=orange" /> 
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=style=flat-square&logo=storybook&logoColor=white" /> 
