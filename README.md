@@ -42,6 +42,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQLServer-0078D4?style=flat-square&logo=SQLServer&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat-square&logo=Docker&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
   <img alt="Expressjs" src="https://img.shields.io/badge/express.js-23404d59?style=flat-square&logo=Express&logoColor=white" /> 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-333333?style=flat-square&logo=Figma&logoColor=red" /> 
