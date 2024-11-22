@@ -23,6 +23,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-045A9D?style=flat-square&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3772A2?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-2C8EBB?style=flat-square&logo=java&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-213FD4?style=flat-square&logo=wordpress&logoColor=white"/>
   <img alt="Threejs" src="https://img.shields.io/badge/Threejs-333333?style=flat-square&logo=Threedotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38BCF8?style=flat-square&logo=tailwindcss&logoColor=white" />
