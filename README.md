@@ -63,7 +63,7 @@
 <p>
   <a href="https://github.com/DyanGao" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://dy-webstudio.de/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://dygao.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:info@dy-webstudio.de" ><img alt="E-Mail" src="https://img.shields.io/badge/EMail-%2312100E.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
